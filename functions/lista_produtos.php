@@ -1,6 +1,5 @@
 <?php
 
-
 function lista_produtos($produtos){
     foreach($produtos as $id => $prod){
 ?>
